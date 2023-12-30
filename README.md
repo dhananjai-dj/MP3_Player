@@ -42,5 +42,5 @@ The main GUI is designed using FXML and Scene Builder. It consists of the follow
 
 
 
-https://github.com/dhananjai-dj/MP3_Player/assets/119773597/9ab0991d-6096-42cb-aaab-782547f66941
+
 
